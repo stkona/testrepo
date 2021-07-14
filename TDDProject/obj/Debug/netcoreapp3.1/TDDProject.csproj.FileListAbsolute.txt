@@ -1,0 +1,13 @@
+C:\Users\stefan.konakchiev\source\repos\TestTDD\testrepo\TDDProject\bin\Debug\netcoreapp3.1\TDDProject.exe
+C:\Users\stefan.konakchiev\source\repos\TestTDD\testrepo\TDDProject\bin\Debug\netcoreapp3.1\TDDProject.deps.json
+C:\Users\stefan.konakchiev\source\repos\TestTDD\testrepo\TDDProject\bin\Debug\netcoreapp3.1\TDDProject.runtimeconfig.json
+C:\Users\stefan.konakchiev\source\repos\TestTDD\testrepo\TDDProject\bin\Debug\netcoreapp3.1\TDDProject.runtimeconfig.dev.json
+C:\Users\stefan.konakchiev\source\repos\TestTDD\testrepo\TDDProject\bin\Debug\netcoreapp3.1\TDDProject.dll
+C:\Users\stefan.konakchiev\source\repos\TestTDD\testrepo\TDDProject\bin\Debug\netcoreapp3.1\TDDProject.pdb
+C:\Users\stefan.konakchiev\source\repos\TestTDD\testrepo\TDDProject\obj\Debug\netcoreapp3.1\TDDProject.csproj.AssemblyReference.cache
+C:\Users\stefan.konakchiev\source\repos\TestTDD\testrepo\TDDProject\obj\Debug\netcoreapp3.1\TDDProject.AssemblyInfoInputs.cache
+C:\Users\stefan.konakchiev\source\repos\TestTDD\testrepo\TDDProject\obj\Debug\netcoreapp3.1\TDDProject.AssemblyInfo.cs
+C:\Users\stefan.konakchiev\source\repos\TestTDD\testrepo\TDDProject\obj\Debug\netcoreapp3.1\TDDProject.csproj.CoreCompileInputs.cache
+C:\Users\stefan.konakchiev\source\repos\TestTDD\testrepo\TDDProject\obj\Debug\netcoreapp3.1\TDDProject.dll
+C:\Users\stefan.konakchiev\source\repos\TestTDD\testrepo\TDDProject\obj\Debug\netcoreapp3.1\TDDProject.pdb
+C:\Users\stefan.konakchiev\source\repos\TestTDD\testrepo\TDDProject\obj\Debug\netcoreapp3.1\TDDProject.genruntimeconfig.cache

@@ -1253,6 +1253,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "TDDProject/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/TDDProject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TDDProject.dll": {}
+        }
       }
     }
   },
@@ -4942,6 +4952,11 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "TDDProject/1.0.0": {
+      "type": "project",
+      "path": "../TDDProject/TDDProject.csproj",
+      "msbuildProject": "../TDDProject/TDDProject.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4949,6 +4964,7 @@
       "Microsoft.NET.Test.Sdk >= 16.9.4",
       "NUnit >= 3.13.1",
       "NUnit3TestAdapter >= 3.17.0",
+      "TDDProject >= 1.0.0",
       "coverlet.collector >= 3.0.2"
     ]
   },
@@ -4985,7 +5001,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\stefan.konakchiev\\source\\repos\\TestTDD\\testrepo\\TDDProject\\TDDProject.csproj": {
+              "projectPath": "C:\\Users\\stefan.konakchiev\\source\\repos\\TestTDD\\testrepo\\TDDProject\\TDDProject.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
