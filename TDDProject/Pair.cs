@@ -17,6 +17,8 @@ namespace TDDProject
         public IDeveloper FirstDeveloper { get => devs.First(); }
         public IDeveloper SecondDeveloper { get => devs.Last(); }
 
+        public List<IDeveloper> Developers { get => devs; }
+
         public void AddDeveloper(Developer dev)
         {
             this.devs.Add(dev);

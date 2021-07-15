@@ -103,3 +103,5 @@ C:\Users\stefan.konakchiev\source\repos\TestTDD\testrepo\Tests\obj\Debug\netcore
 C:\Users\stefan.konakchiev\source\repos\TestTDD\testrepo\Tests\obj\Debug\netcoreapp3.1\Tests.dll
 C:\Users\stefan.konakchiev\source\repos\TestTDD\testrepo\Tests\obj\Debug\netcoreapp3.1\Tests.pdb
 C:\Users\stefan.konakchiev\source\repos\TestTDD\testrepo\Tests\obj\Debug\netcoreapp3.1\Tests.genruntimeconfig.cache
+C:\Users\stefan.konakchiev\source\repos\TestTDD\testrepo\Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\stefan.konakchiev\source\repos\TestTDD\testrepo\Tests\bin\Debug\netcoreapp3.1\Moq.dll
